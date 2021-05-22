@@ -18,7 +18,8 @@
           class="d-flex justify-center mb-6"
           >
          <h2
-            class="pa-2"
+            class="pa-2 blue--text"
+            
           >No Task</h2>
         </div>
         <div
